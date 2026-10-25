@@ -1,0 +1,401 @@
+message_id,channel,message,label,campaign_group,source
+SYN-P-0001,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0001,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0002,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0002,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0003,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0003,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0004,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0004,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0005,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0005,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0006,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0006,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0007,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0007,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0008,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0008,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0009,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0009,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0010,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0010,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0011,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0011,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0012,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0012,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0013,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0013,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0014,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0014,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0015,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0015,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0016,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0016,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0017,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0017,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0018,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0018,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0019,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0019,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0020,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0020,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0021,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0021,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0022,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0022,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0023,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0023,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0024,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0024,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0025,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0025,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0026,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0026,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0027,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0027,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0028,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0028,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0029,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0029,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0030,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0030,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0031,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0031,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0032,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0032,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0033,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0033,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0034,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0034,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0035,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0035,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0036,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0036,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0037,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0037,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0038,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0038,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0039,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0039,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0040,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0040,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0041,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0041,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0042,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0042,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0043,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0043,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0044,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0044,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0045,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0045,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0046,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0046,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0047,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0047,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0048,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0048,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0049,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0049,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0050,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0050,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0051,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0051,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0052,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0052,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0053,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0053,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0054,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0054,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0055,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0055,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0056,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0056,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0057,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0057,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0058,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0058,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0059,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0059,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0060,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0060,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0061,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0061,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0062,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0062,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0063,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0063,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0064,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0064,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0065,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0065,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0066,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0066,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0067,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0067,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0068,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0068,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0069,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0069,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0070,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0070,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0071,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0071,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0072,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0072,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0073,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0073,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0074,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0074,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0075,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0075,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0076,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0076,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0077,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0077,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0078,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0078,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0079,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0079,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0080,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0080,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0081,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0081,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0082,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0082,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0083,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0083,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0084,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0084,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0085,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0085,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0086,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0086,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0087,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0087,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0088,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0088,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0089,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0089,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0090,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0090,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0091,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0091,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0092,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0092,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0093,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0093,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0094,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0094,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0095,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0095,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0096,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0096,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0097,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0097,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0098,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0098,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0099,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0099,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0100,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0100,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0101,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0101,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0102,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0102,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0103,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0103,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0104,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0104,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0105,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0105,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0106,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0106,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0107,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0107,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0108,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0108,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0109,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0109,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0110,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0110,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0111,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0111,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0112,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0112,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0113,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0113,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0114,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0114,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0115,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0115,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0116,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0116,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0117,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0117,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0118,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0118,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0119,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0119,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0120,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0120,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0121,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0121,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0122,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0122,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0123,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0123,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0124,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0124,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0125,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0125,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0126,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0126,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0127,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0127,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0128,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0128,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0129,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0129,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0130,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0130,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0131,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0131,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0132,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0132,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0133,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0133,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0134,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0134,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0135,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0135,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0136,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0136,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0137,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0137,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0138,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0138,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0139,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0139,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0140,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0140,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0141,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0141,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0142,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0142,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0143,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0143,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0144,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0144,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0145,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0145,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0146,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0146,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0147,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0147,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0148,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0148,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0149,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0149,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0150,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0150,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0151,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0151,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0152,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0152,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0153,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0153,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0154,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0154,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0155,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0155,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0156,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0156,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0157,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0157,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0158,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0158,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0159,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0159,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0160,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0160,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0161,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0161,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0162,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0162,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0163,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0163,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0164,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0164,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0165,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0165,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0166,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0166,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0167,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0167,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0168,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0168,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0169,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0169,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0170,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0170,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0171,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0171,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0172,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0172,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0173,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0173,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0174,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0174,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0175,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0175,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0176,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0176,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0177,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0177,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0178,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0178,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0179,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0179,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0180,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0180,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0181,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0181,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0182,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0182,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0183,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0183,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0184,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0184,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0185,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0185,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0186,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0186,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0187,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0187,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0188,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0188,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0189,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0189,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0190,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0190,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example
+SYN-P-0191,email_or_sms,Urgent: your account will be suspended. Verify your details immediately at http://verify-example.invalid/login,phishing,synthetic-phish-0,synthetic educational example
+SYN-L-0191,email_or_sms,Reminder: your team meeting is scheduled for Monday at 9:00 AM.,legitimate,synthetic-legit-0,synthetic educational example
+SYN-P-0192,email_or_sms,Final warning: confirm your password to restore access: https://secure-check.invalid/account,phishing,synthetic-phish-1,synthetic educational example
+SYN-L-0192,email_or_sms,Your library book is due on Friday. Please return it at the desk.,legitimate,synthetic-legit-1,synthetic educational example
+SYN-P-0193,email_or_sms,Your payment failed. Update your bank details now at http://billing-alert.invalid/pay,phishing,synthetic-phish-2,synthetic educational example
+SYN-L-0193,email_or_sms,The project report is available in the course portal. Contact your teacher with questions.,legitimate,synthetic-legit-2,synthetic educational example
+SYN-P-0194,email_or_sms,You are a winner. Claim your free gift before it expires: https://claim-prize.invalid/reward,phishing,synthetic-phish-3,synthetic educational example
+SYN-L-0194,email_or_sms,Thanks for your order. Your receipt is available in your account order history.,legitimate,synthetic-legit-3,synthetic educational example
+SYN-P-0195,email_or_sms,Unusual sign-in detected. Validate your identity using https://secure-check.invalid/account,phishing,synthetic-phish-4,synthetic educational example
+SYN-L-0195,email_or_sms,Your appointment is confirmed for 15 October at 2:30 PM. Call the clinic if you need to reschedule.,legitimate,synthetic-legit-4,synthetic educational example
+SYN-P-0196,email_or_sms,Your mailbox is full. Login to increase storage: http://verify-example.invalid/login,phishing,synthetic-phish-5,synthetic educational example
+SYN-L-0196,email_or_sms,The monthly newsletter is ready to read on our official website.,legitimate,synthetic-legit-5,synthetic educational example
+SYN-P-0197,email_or_sms,Your package is on hold. Pay the small fee here: http://billing-alert.invalid/pay,phishing,synthetic-phish-6,synthetic educational example
+SYN-L-0197,email_or_sms,Your document was shared with you by a colleague. Review it when convenient.,legitimate,synthetic-legit-6,synthetic educational example
+SYN-P-0198,email_or_sms,Action required within 24 hours or your account will be locked: https://secure-check.invalid/account,phishing,synthetic-phish-7,synthetic educational example
+SYN-L-0198,email_or_sms,The campus event starts at 11:15 AM in the main auditorium.,legitimate,synthetic-legit-7,synthetic educational example
+SYN-P-0199,email_or_sms,Payroll information needs confirmation. Open https://verify-example.invalid/login to verify your account,phishing,synthetic-phish-8,synthetic educational example
+SYN-L-0199,email_or_sms,"Your requested password reset was initiated. If this was not you, visit the official app directly.",legitimate,synthetic-legit-8,synthetic educational example
+SYN-P-0200,email_or_sms,Your subscription is terminated unless you update payment details at http://billing-alert.invalid/pay,phishing,synthetic-phish-9,synthetic educational example
+SYN-L-0200,email_or_sms,Your payment receipt has been generated. You can view it in the official application.,legitimate,synthetic-legit-9,synthetic educational example

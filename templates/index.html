@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PhishShift Message Risk Scanner</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div class="brand-mark">PS</div>
+      <div><p class="eyebrow">CYBERSECURITY · MACHINE LEARNING</p><h1>PhishShift</h1><p class="subtitle">Message Risk Scanner</p></div>
+      <span class="status"><i></i> Local demo</span>
+    </header>
+    <section class="intro">
+      <h2>Check a suspicious message.</h2>
+      <p>Paste email or SMS text to review its estimated risk and possible warning signs.</p>
+    </section>
+    <section class="panel">
+      <form method="post">
+        <label for="message">Message content</label>
+        <textarea id="message" name="message" maxlength="10000" required placeholder="Paste the message here. Do not include real passwords or private information.">{{ message }}</textarea>
+        <div class="form-bottom"><small>Up to 10,000 characters · Avoid personal data</small><button type="submit">Scan message <span>→</span></button></div>
+      </form>
+    </section>
+    {% if result %}
+    <section class="result">
+      <div class="result-head">
+        <div><p class="eyebrow">SCAN RESULT</p><h2>{{ result.label }}</h2></div>
+        <span class="risk risk-{{ result.risk|lower|replace(' ', '-') }}">{{ result.risk }} risk</span>
+      </div>
+      {% if result.confidence is not none %}
+      <div class="score-line"><span>Model phishing score</span><strong>{{ result.confidence }}%</strong></div>
+      <div class="bar"><span style="width: {{ result.confidence }}%"></span></div>
+      {% endif %}
+      <p class="explanation">{{ result.explanation }}</p>
+      <h3>Signals to review</h3>
+      {% if result.cues %}
+        <ul>{% for cue in result.cues %}<li>{{ cue }}</li>{% endfor %}</ul>
+      {% else %}<p class="muted">No basic text cues detected.</p>{% endif %}
+    </section>
+    {% endif %}
+    <section class="note"><strong>Important:</strong> This educational prototype is not a security guarantee. Model scores are not calibrated probabilities. Never click suspicious links or enter credentials based only on this result; verify through an official app or known contact channel.</section>
+    <footer>PhishShift · ML-07 · Educational prototype</footer>
+  </main>
+</body>
+</html>
